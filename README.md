@@ -6,7 +6,7 @@ Welcome to our comprehensive electronic components catalog. Whether you’re loo
 
 At Masline Electronics, we pride ourselves on offering exceptional service and expert support alongside our extensive product range. Our goal is to help you improve workflow, reduce costs, and solve manufacturing challenges with ease. Every component listed here reflects our commitment to quality and customer satisfaction.
 
-If you want to request pricing or availability for any component, simply click the button above to submit your inquiry. Our team will respond promptly to help you with a tailored quote.
+If you want to request pricing or availability for any component, simply click the button above to submit your inquiry. Our team will respond promptly with a tailored quote.
 
 Available Parts For Quote:
 - 34/78P
