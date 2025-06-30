@@ -1,6 +1,6 @@
 ## Electronic Components Catalog
 
-Welcome to our comprehensive electronic components catalog. Whether you’re looking for passive, electromechanical, or active parts, this list is designed to help you quickly find the components you need to support your manufacturing or design projects. Our curated selection ensures quality, reliability, and availability to meet your production deadlines.
+Welcome to our comprehensive electronic components catalog. Whether you’re looking for passive, Connector, Circuit protection, Switches, electromechanical, or active parts, this list is designed to help you quickly find the components you need to support your manufacturing or design projects. Our curated selection ensures quality, reliability, and availability to meet your production deadlines.
 
 [![Request a Quote](https://img.shields.io/badge/Request%20a%20Quote-Click%20Here-blue?style=for-the-badge&logo=appveyor)](https://www.masline.com/request-a-quote/)
 
